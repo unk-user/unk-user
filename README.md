@@ -24,3 +24,10 @@
   </picture>
 
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3688ff&height=120&section=footer">
+ <img alt="footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3688ff&height=120&section=footer"/>
+</picture>
